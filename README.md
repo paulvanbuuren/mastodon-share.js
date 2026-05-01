@@ -1,4 +1,4 @@
-# share-on-mastodon
+# a Share-on-Mastodon button that remembers your instance
 A modification of a share-on-mastodon link that remembers your server instance.
 
 Inspiration from [github.com/codepo8/mastodon-share](https://github.com/codepo8/mastodon-share).
